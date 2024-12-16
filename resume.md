@@ -6,12 +6,10 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 ---
 
 ## Education  
-**Western Governors University**  
-*B.S. in Network Engineering and Security*  
+*B.S. in Network Engineering and Security*  **Western Governors University**  
 *Expected Graduation*: December 2025  
 
-**Rutgers University-Newark** 
-*B.A. in Neuroscience and Behavior*  
+*B.A. in Neuroscience and Behavior*  **Rutgers University-Newark** 
 *Graduated*: December 2021  
 
 ---
@@ -46,7 +44,7 @@ Arcola Country Club, Paramus, NJ
 ## Interests  
 - Customer Facing Support
 - IT Professional Development
-- Technical Troubleshooting and Hardware Optimization
+- Hardware Troubleshooting and Optimization
 - Astrological Software Development
 - Fitness and Endurance Challenges  
 
@@ -57,7 +55,7 @@ Arcola Country Club, Paramus, NJ
 - On-premise and Cloud Web Server Management (AWS, Apache, SSL/TLS, DNS)
 - Full-Stack Web Application Development (Angular, TypeScript, HTML, CSS, Python, MySQL, MongoDB, Git)
 - Virtualization (VMware, Hyper-V, Docker, VPS, VPN, VPC)
-- Networking and Computing Hardware Configuration (RJ45, Ethernet, CPU, Motherboard, RAM, GPU, fans)  
+- Networking and Computing Hardware Configuration (router, switches, RJ45, CPU, Motherboard, RAM, GPU, fans)  
 - Strong Communication Skills
 - Composed and Focused Under Pressure 
 - Driven to Learn Everyday  
