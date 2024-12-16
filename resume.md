@@ -6,11 +6,11 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 ---
 
 ## Education  
-*B.S. in Network Engineering and Security*  **Western Governors University**  
-*Expected Graduation*: December 2025  
+*B.S. in Network Engineering and Security Western Governors University*  
+Expected Graduation: December 2025  
 
-*B.A. in Neuroscience and Behavior*  **Rutgers University-Newark** 
-*Graduated*: December 2021  
+*B.A. in Neuroscience and Behavior Rutgers University-Newark* 
+Graduated: December 2021  
 
 ---
 
