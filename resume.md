@@ -25,14 +25,14 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 
 **Web Developer**  
 TheStellarCompass.com 
-*August 2024 – November 2024*  
+August 2024 – November 2024  
 - Designed and programmed a full-stack web app and Discord bot for a professional astrologer.  
 - Demonstrated resourcefulness by successfully integrating multiple technologies with no prior experience.  
 - Gained expertise in AngularJS, Python, MySQL, API development, DNS and server configuration, cPanel, and Git.  
 
 **Professional Golf Caddy**  
 Arcola Country Club, Paramus, NJ  
-*March 2014 – October 2023*  
+March 2014 – October 2023  
 - Applied effective strategies for maintaining composure under pressure while delivering high-quality services.  
 - Exercised sound judgment when making rules decisions according to USGA guidelines.  
 - Developed excellent communication skills to ensure client satisfaction with caddy services.  
