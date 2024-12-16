@@ -1,4 +1,4 @@
-# MATTHEW MORGAN  
+# MATTHEW CHARLES MORGAN  
 (201) 788-6351 | [mmorganc@live.com](mailto:mmorganc@live.com) | Ottawa, ON  
 
 ---
@@ -8,32 +8,22 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 
 ---
 
-## Certifications  
-- **AWS Certified Cloud Practitioner**  
-- **CompTIA A+**
-- **CCNA (Cisco Certified Network Associate)** *(in progress, exam scheduled for February 2025)*  
-- **12-Hour Burpee World Record Holder** (7,777 reps, October 2023)  
-
----
-
 ## Education  
 **Western Governors University**  
-*Bachelor of Science (B.S.) in Network Engineering and Security*  
+*B.S. in Network Engineering and Security*  
 *Expected Graduation*: December 2025  
-- **Relevant Coursework**: Networking and Security, Scripting and Programming  
 
-**Rutgers University-Newark**, Newark, NJ, USA  
-*Bachelor of Science (B.S.) in Neuroscience and Behavior*  
-*Graduation*: December 2021  
-- **GPA**: 3.6  
+**Rutgers University-Newark** 
+*B.A. in Neuroscience and Behavior*  
+*Graduated*: December 2021  
 
 ---
 
-## Skills  
-- Composed Demeanor  
-- Strong Communication Skills  
-- Driven to Learn  
-- Microsoft Office Proficient  
+## Certifications  
+- **AWS Certified Cloud Practitioner**  
+- **ITIL 4 Foundation**
+- **CompTIA A+** *(in progress, exam scheduled for January 2025)*  
+- **12-Hour Burpee World Record Holder** (7,777 reps, October 2023)  
 
 ---
 
@@ -59,3 +49,13 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 - Networking Technologies  
 - IT Support and Troubleshooting  
 - Fitness and Endurance Challenges  
+
+---
+
+## Skills  
+- Composed Demeanor  
+- Strong Communication Skills  
+- Driven to Learn  
+- Microsoft Server Proficient  
+
+---
