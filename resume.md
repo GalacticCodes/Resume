@@ -1,5 +1,5 @@
 # MATTHEW CHARLES MORGAN  
-(201) 788-6351 | [mmorganc@live.com](mailto:mmorganc@live.com) | Ottawa, ON  
++1-(201)-788-6351 | [mmorganc@live.com](mailto:mmorganc@live.com) | Ottawa, ON
 
 ---
 
@@ -21,8 +21,9 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 
 ## Certifications  
 - **AWS Certified Cloud Practitioner**  
-- **ITIL 4 Foundation**
-- **CompTIA A+** *(in progress, exam scheduled for January 2025)*  
+- **ITIL 4 Foundation** *(IT Service Management(ITSM) practices)*
+- **CompTIA A+** *(in progress, exam scheduled for January 2025)*
+- **Cisco Certified Network Assosciate(CCNA)** *(in progress, exam scheduled for February 2025)*
 - **12-Hour Burpee World Record Holder** (7,777 reps, October 2023)  
 
 ---
@@ -30,7 +31,7 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 ## Experience  
 
 **Web Developer**  
-*TheStellarCompass.com*  
+TheStellarCompass.com 
 *August 2024 – November 2024*  
 - Designed and programmed a full-stack web app and Discord bot for a professional astrologer.  
 - Demonstrated resourcefulness by successfully integrating multiple technologies with no prior experience.  
@@ -38,7 +39,7 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 
 **Professional Golf Caddy**  
 *Arcola Country Club, Paramus, NJ*  
-*March 2016 – October 2023*  
+*March 2014 – October 2023*  
 - Applied effective strategies for maintaining composure under pressure while delivering high-quality services.  
 - Exercised sound judgment when making rules decisions according to USGA guidelines.  
 - Developed excellent communication skills to ensure client satisfaction with caddy services.  
@@ -46,16 +47,21 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 ---
 
 ## Interests  
-- Networking Technologies  
-- IT Support and Troubleshooting  
+- Customer Facing Support
+- IT Professional Development
+- Technical Troubleshooting
+- Astrological Software Development
 - Fitness and Endurance Challenges  
 
 ---
 
-## Skills  
-- Composed Demeanor  
-- Strong Communication Skills  
-- Driven to Learn  
-- Microsoft Server Proficient  
+## Skills
+- IT Service Management Practices (continual improvement, risk, incident, and security management)
+- On-premise and Cloud Web Server Management (AWS, Apache, SSL/TLS, DNS)
+- Full-Stack Web Application Development (Angular, TypeScript, HTML, CSS, Python, MySQL, MongoDB, Git)
+- Virtualization (VMware, Hyper-V, Docker)  
+- Strong Communication Skills
+- Composed and Focused Under Pressure 
+- Driven to Learn Everyday  
 
 ---
