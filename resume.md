@@ -57,5 +57,3 @@ Arcola Country Club, Paramus, NJ
 - Strong Communication Skills
 - Composed and Focused Under Pressure 
 - Driven to Learn Everyday  
-
----
