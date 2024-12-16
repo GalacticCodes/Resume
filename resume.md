@@ -17,7 +17,7 @@ Energetic and resilient Network Engineering student with a solid foundation in I
 - **ITIL 4 Foundation** *(IT Service Management(ITSM) practices)*
 - **CompTIA A+** *(in progress, exam scheduled for January 2025)*
 - **Cisco Certified Network Assosciate(CCNA)** *(in progress, exam scheduled for February 2025)*
-- **12-Hour Burpee World Record Holder** (7,777 reps, October 2023)  
+- **12-Hour Burpee World Record Holder** (7,777 reps, October 2023-May 2024)  
 
 ---
 
