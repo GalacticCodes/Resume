@@ -1,5 +1,5 @@
 # MATTHEW CHARLES MORGAN  
-+1-(201)-788-6351 | [mmorganc@live.com](mailto:mmorganc@live.com) | Ottawa, ON
++1-(201)-788-6351 | [mmorganc@live.com](mailto:mmorganc@live.com) | Ocean Grove, NJ
 
 Energetic and resilient Network Engineering student with a solid foundation in IT and a proven work ethic gained through years as a professional golf caddy. Currently pursuing certifications with Cisco and CompTIA to enhance technical expertise and prepare for a career in IT. I am eager to bring a customer-focused approach, problem-solving abilities, and strong interpersonal skills to an IT Support role. Driven by a passion for growth in IT, I am confident in my ability to adapt, contribute, and excel.
 
