@@ -29,13 +29,6 @@ Arcola Country Club, Paramus, NJ
 - Developed excellent communication skills to ensure client satisfaction with caddy services.  
 
 ---
-
-## Education  
-
-*B.A. in Neuroscience and Behavior* Rutgers University-Newark, Completed: December 2021  
-
----
-
 ## Certifications  
 - **CompTIA A+**
 - **Linux Essentials | Linux Professional Institute** 
@@ -44,6 +37,13 @@ Arcola Country Club, Paramus, NJ
 - **Cisco Certified Network Assosciate(CCNA)** *(in progress, exam scheduled for May 2025)*
 - **12-Hour Burpee World Record Holder** (7,777 reps, October 2023-May 2024)
   
+
+---
+
+## Education  
+
+*B.A. in Neuroscience and Behavior* Rutgers University-Newark, Completed: December 2021  
+
 ---
 
 ## Interests  
