@@ -1,7 +1,7 @@
 # MATTHEW CHARLES MORGAN  
 +1-(201)-788-6351 | [mmorganc@live.com](mailto:mmorganc@live.com) | Ocean Grove, NJ
 
-As an energetic and resilient IT Support Technician, I carry a solid foundation of technical skills that have been tested in practice. Having completed many industry standard certifications to enhance technical expertise, I am eager to bring a customer-focused approach, problem-solving abilities, and strong interpersonal skills to an IT Support role. Driven by a passion for growth in IT, I am confident in my ability to adapt, contribute, and excel.
+Energetic and resilient IT Support Technician with a solid foundation in technical support and hands-on experience in fast-paced environments. Backed by industry-standard certifications, I bring a customer-first mindset, sharp problem-solving skills, and strong interpersonal communication to every role. Passionate about continuous learning and growth in the IT field, I am confident in my ability to adapt quickly, contribute meaningfully, and thrive as part of a dynamic support team.
 
 ---
 
