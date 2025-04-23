@@ -8,22 +8,19 @@ Energetic and resilient IT Support Technician with a solid foundation in technic
 ## Experience  
 
 **Poll Technician Officer**  
-Elections Ontario, Ottawa, ON
-*January 2025 – March 2025 (3 month contract)*  
+Elections Ontario, Ottawa, ON | *January 2025 – March 2025 (3 month contract)*  
 - Deployed and supported voting tech (ePoll books, tabulators, printers, modems) across 32 polling sites, ensuring system readiness and compliance with setup standards.
 - Provided technical support for hardware, software, and networking issues; resolved problems under pressure during the high-volume election period.
 - Managed technical documentation and reported accurately on equipment performance and issue resolution.
   
 **Web Development**  
-The Stellar Compass 
-*August 2024 – November 2024*
+The Stellar Compass | *August 2024 – November 2024*
 - Designed and programmed a full-stack web app and Discord bot for a professional astrologer.  
 - Demonstrated resourcefulness by successfully integrating multiple technologies with no prior experience.  
 - Gained expertise in AngularJS, Python, MySQL, API development, DNS and server configuration, cPanel, and Git.  
 
 **Professional Golf Caddy**  
-Arcola Country Club, Paramus, NJ  
-*March 2016 – Present*  
+Arcola Country Club, Paramus, NJ | *March 2016 – Present*  
 - Applied effective strategies for maintaining composure under pressure while delivering high-quality services.  
 - Exercised sound judgment when making rules decisions according to USGA guidelines.  
 - Developed excellent communication skills to ensure client satisfaction with caddy services.  
