@@ -52,8 +52,7 @@ Frog Lotus Yoga, Ubud, Indonesia | Certified by Yoga Alliance | August 2017
 - **Dean's List** – Rutger's University, Fall 2020 and Spring 2021
 - **CompTIA A+** – IT Hardware and Software Troubleshooting  
 - **12-Hour Burpee World Record Holder** – 7,777 reps (October 2023–May 2024)  
-- **As the founder of SNC Yoga Club, I was awarded the 2018 Sierra Nevada College Student Club of the Year Award
-
+- **Founder of SNC Yoga Club** - awarded the 2018 Sierra Nevada College Student Club of the Year
 
 ---
 
